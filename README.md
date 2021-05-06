@@ -11,7 +11,7 @@
 python2
 
 #下载
-git clone https://github.com/lzhen186/mymusic.git
+git clone https://github.com/Escher1108/website-layer7-stress.git
 
 #使用
 python2 l7.py <URL>
