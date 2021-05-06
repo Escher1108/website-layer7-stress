@@ -20,13 +20,13 @@ Example：Python2 l7.py https://example.com
 
 ### 使用说明： ###
 
-测试站点套用了CF CDN，国内使用的腾讯云CDN,但是还是透了，以下是效果：![](C:\Users\Escher\Documents\GitHub\website-layer7-stress\images\2.png)
+测试站点套用了CF CDN，国内使用的腾讯云CDN,但是还是透了，以下是效果：![](https://github.com/Escher1108/website-layer7-stress/blob/main/images/2.png)
 
 
 
 ### 使用例子: ###
 
-![](C:\Users\Escher\Documents\GitHub\website-layer7-stress\images\1.png)
+![](https://github.com/Escher1108/website-layer7-stress/blob/main/images/1.png)
 
 ### 使用声明: ###
 
